@@ -136,7 +136,7 @@ Hotel-Revenue-Insights/
 ## 📸 Dashboard Preview
 
 
-![Dashboard](images/Hotel_rev_Dashboard-img.pnd)
+![Dashboard](Hotel_rev_Dashboard-img.png)
 
 
 ---
