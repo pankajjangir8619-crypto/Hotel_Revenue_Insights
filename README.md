@@ -162,7 +162,7 @@ Hotel-Revenue-Insights/
 
 **Pankaj Jangir**
 
-* LinkedIn: *(Add your LinkedIn profile link here)*
+* LinkedIn: www.linkedin.com/in/pankaj-jangir-99ab9b385
 
 ---
 
